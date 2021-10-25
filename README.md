@@ -30,3 +30,8 @@ SCHKEY=XXXXXXXXXXXXXXX
 1. 表示した動画クリップのタイトルや説明文を形態素解析ツール「MeCab」で処理し、名詞部分を「キーワード」として抽出（各キーワードは「TF-IDF」で重要度を計算しておく）
 1. それぞれの名詞で「NHK NEWS WEB」の記事を検索し、重複を排除した記事群を「関連記事」とする
 1. 関連記事は、各記事に含まれるキーワードを用いてスコア付けし、降順で表示
+
+### Developers
+
+- [upura](https://github.com/upura)
+- [itch](https://github.com/itch0323)
