@@ -2,6 +2,7 @@
 
 - [NHKハッカソン- 教育×シビックテック×ニュース](https://nhk-hackathon.peatix.com/)での成果物です
 - [NHK for School](https://www.nhk.or.jp/school/) で閲覧した動画クリップについて、[NHK NEWS WEB](https://www3.nhk.or.jp/news/)の関連記事を表示します
+- 取り組み全般については[参加録](https://upura.hatenablog.com/entry/2021/10/25/180354)にまとめました
 
 ## Development
 
